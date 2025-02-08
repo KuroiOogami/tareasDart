@@ -1,8 +1,10 @@
 
 import 'dart:collection';
+
 /*Cree una clase Empleado que contenga las propiedades nombre, puesto y salario. Luego cree
 una lista de “empleados” y una función que calcule el salario total de todos los empleados y otra
 que calcule el salario promedio.*/
+
 class Empleado{
 
   final String nombre;
