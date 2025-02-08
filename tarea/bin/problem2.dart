@@ -1,5 +1,6 @@
 import "dart:math";
-
+/*Crea un programa que devuelva una lista con todos los elementos únicos
+de otra lista.*/
 void main(List<String> arguments) {
   
   final List arr1=[];
